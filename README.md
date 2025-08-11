@@ -5,19 +5,14 @@ This repository contains a set of algorithms written delibretely in an imperativ
 Fork and clone or just clone the repo
 
 ### Goal
-Refactor the algorithms using functional programming, whilst maintianing <span style="color:green">**green**</span> tests!
+Refactor the algorithms using functional programming, whilst maintaining <span style="color:green">**green**</span> tests!
 
 ### Suggested path
-I advice to get an overview of the entire scope first, and then gradually working through the algorithms from easiest to hardest. A recomended order would be to:
+I advice to get an overview of the entire scope first, and then gradually working through the algorithms from easiest to hardest. A recommended order would be to:
 1. Start with the basic mathematical functions first followed by the bits-and-bytes functions
 2. String manipulation functions
-3. Then try out some of the sorting algorithms and prime number counter
-
-### Some Advice
-- AI assistants such as GitHub Copilot, Chat GPT, etc. are of course allowed, but try to use those tools only for understanding the problems, not for solving them.
-- Some of the algorithms are possible to replace with existing implementations of the same algorithms provided by programming language defualt frameworks. E.g. `Sum` in `LINQ`. Try to discovere these features to learn about their existence and usefulness, but try to solv the problems without them.
-- In the beginning, you might find some of the algorithms to be quite hard to solve using functional programming. Give it a couple of tries, and then move on to solve some of the others instead.
-- Create as many helper methods as you need, but leave the original function decleration as is or it may mess up the tests.
+3. Try pattern matching and program flow
+4. Then try out some of the sorting algorithms and prime number counter
 
 ## Weird Things You Might Struggle With
 Some of the code was a bit complicated to write in it's "pure" imperative nature due to some of the features of the programming languages. 
