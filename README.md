@@ -1,6 +1,9 @@
 # Functional Programming Challenges
 This repository contains a set of algorithms written delibretely in an imperative manner, with the purpose of being refactored in a more declerative way using the functional concepts available in the respective programming languages.
 
+## Build and Test Status
+[![.NET](https://github.com/coworkshop/functional-programming-workshop/actions/workflows/dotnet.yml/badge.svg)](https://github.com/coworkshop/functional-programming-workshop/actions/workflows/dotnet.yml)
+
 ## Getting Started
 Fork and clone or just clone the repo
 
